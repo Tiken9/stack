@@ -226,3 +226,4 @@ void Vector<Data_T>::pop_back(Data_T *value)
 
 
 #endif
+ok
